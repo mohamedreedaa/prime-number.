@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.AssemblyInfo.cs
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\pime number 2\bin\Debug\netcoreapp3.1\pime number 2.exe
+C:\Users\hp\source\repos\pime number 2\bin\Debug\netcoreapp3.1\pime number 2.deps.json
+C:\Users\hp\source\repos\pime number 2\bin\Debug\netcoreapp3.1\pime number 2.runtimeconfig.json
+C:\Users\hp\source\repos\pime number 2\bin\Debug\netcoreapp3.1\pime number 2.runtimeconfig.dev.json
+C:\Users\hp\source\repos\pime number 2\bin\Debug\netcoreapp3.1\pime number 2.dll
+C:\Users\hp\source\repos\pime number 2\bin\Debug\netcoreapp3.1\pime number 2.pdb
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.dll
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.pdb
+C:\Users\hp\source\repos\pime number 2\obj\Debug\netcoreapp3.1\pime number 2.genruntimeconfig.cache
